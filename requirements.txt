@@ -1,0 +1,15 @@
+blinker==1.9.0
+click==8.1.8
+colorama==0.4.6
+ecdsa==0.19.1
+Flask==3.1.0
+flask-cors==5.0.1
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+six==1.17.0
+Werkzeug==3.1.3
+cryptography=44.0.2
+
+
+# pip install -r requirements.txt run this code in terminal to get all libraries 

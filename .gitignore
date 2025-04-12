@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+
+# VS Code settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs and local databases
+*.log
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+*.env
+
+# Python egg metadata
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Node (if you add frontend later)
+node_modules/
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# PyInstaller
+*.spec
+
+# Flask cache
+instance/
+*.pyc
+
+# Backup files
+*.bak
+*.swp
+*.swo
